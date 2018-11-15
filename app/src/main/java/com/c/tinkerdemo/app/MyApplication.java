@@ -57,6 +57,7 @@ public class MyApplication extends Application {
 
             }
 
+
             @Override
             public void onUpgradeSuccess(boolean b) {
 
